@@ -81,3 +81,10 @@ limitations under the License.
 ```
 [1]: https://raw.githubusercontent.com/smasoumi/FAB-Loading/master/images/marvel_loader.gif
 [2]: https://raw.githubusercontent.com/smasoumi/FAB-Loading/master/images/preview.gif
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
